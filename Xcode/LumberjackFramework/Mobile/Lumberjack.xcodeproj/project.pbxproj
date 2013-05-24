@@ -49,7 +49,7 @@
 		DC58E48814DC70CF006B16E2 /* libLumberjack.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLumberjack.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC58E48B14DC70CF006B16E2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DC58E48F14DC70CF006B16E2 /* Lumberjack-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lumberjack-Prefix.pch"; sourceTree = "<group>"; };
-		DC58E49014DC70CF006B16E2 /* Lumberjack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Lumberjack.h; sourceTree = "<group>"; };
+		DC58E49014DC70CF006B16E2 /* Lumberjack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = Lumberjack.h; path = ../../../../Lumberjack/Lumberjack.h; sourceTree = "<group>"; };
 		DC58E49B14DC7176006B16E2 /* DDAbstractDatabaseLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DDAbstractDatabaseLogger.h; path = ../../../../Lumberjack/DDAbstractDatabaseLogger.h; sourceTree = "<group>"; };
 		DC58E49C14DC7176006B16E2 /* DDAbstractDatabaseLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DDAbstractDatabaseLogger.m; path = ../../../../Lumberjack/DDAbstractDatabaseLogger.m; sourceTree = "<group>"; };
 		DC58E49D14DC7176006B16E2 /* DDASLLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DDASLLogger.h; path = ../../../../Lumberjack/DDASLLogger.h; sourceTree = "<group>"; };
