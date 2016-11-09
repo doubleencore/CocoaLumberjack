@@ -4,8 +4,6 @@
 #import <Lumberjack/Lumberjack.h>
 
 // Log levels: off, error, warn, info, verbose
-static const int ddLogLevel = LOG_LEVEL_VERBOSE;
-
 
 @implementation AppDelegate
 
